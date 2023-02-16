@@ -1,6 +1,7 @@
 <template>
   <nav>
     <router-link to="/">Home</router-link> |
+    <router-link to="/party/add">Nuevo Partido</router-link> |
     <router-link to="/about">Acerca de mí</router-link>
   </nav>
   <router-view/>
